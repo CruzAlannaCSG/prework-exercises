@@ -1,1 +1,4 @@
-Hello, my name is Alanna. My favorite color is green.
+Hello, my name is Alanna. My favorite color is green!
+
+
+My favorite number is 3.
